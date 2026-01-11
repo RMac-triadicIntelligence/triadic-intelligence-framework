@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![Issues](https://img.shields.io/github/issues/yourusername/triadic-intelligence-framework)](https://github.com/yourusername/triadic-intelligence-framework/issues)
 
 ## Overview
 
